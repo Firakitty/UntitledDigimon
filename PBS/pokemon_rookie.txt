@@ -1,0 +1,169 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[ANGORAMON]
+Name = Angoramon
+Types = FLYING
+BaseStats = 50,50,50,50,50,50
+GenderRatio = Genderless
+GrowthRate = Medium
+BaseExp = 100
+CatchRate = 0
+Happiness = 70
+Abilites = INTIMIDATE
+HiddenAbilities = JUSTIFIED
+Moves = 1,TACKLE
+Height = 0
+Weight = 0
+Color = Red
+Shape = BipedalTail
+Habitat = None
+Category = Beast
+Pokedex = A calm Digimon with a hatred for fighting. It avoids battles by detecting opponents with its long ears
+Generation = 0
+#-------------------------------
+[GOMAMON]
+Name = Gomamon
+Types = WATER
+BaseStats = 50,50,50,50,50,50
+GenderRatio = Genderless
+GrowthRate = Medium
+BaseExp = 100
+CatchRate = 0
+Happiness = 70
+Abilites = INTIMIDATE
+HiddenAbilities = JUSTIFIED
+Moves = 1,TACKLE
+Height = 0
+Weight = 0
+Color = Red
+Shape = Finned
+Habitat = None
+Category = ???
+Pokedex = No data listed
+Generation = 0
+#-------------------------------
+[GOTSUMON]
+Name = Gotsumon
+Types = ROCK
+BaseStats = 50,50,50,50,50,50
+GenderRatio = Genderless
+GrowthRate = Medium
+BaseExp = 100
+CatchRate = 0
+Happiness = 70
+Abilites = INTIMIDATE
+HiddenAbilities = JUSTIFIED
+Moves = 1,TACKLE
+Height = 0
+Weight = 0
+Color = Red
+Shape = Bipedal
+Habitat = None
+Category = ???
+Pokedex = No data listed
+Generation = 0
+#-------------------------------
+[GUILMON]
+Name = Guilmon
+Types = FIRE,DRAGON
+BaseStats = 50,50,50,50,50,50
+GenderRatio = Genderless
+GrowthRate = Medium
+BaseExp = 100
+CatchRate = 0
+Happiness = 70
+Abilites = INTIMIDATE
+HiddenAbilities = JUSTIFIED
+Moves = 1,TACKLE
+Height = 0
+Weight = 0
+Color = Red
+Shape = BipedalTail
+Habitat = None
+Category = ???
+Pokedex = No data listed
+Generation = 0
+#-------------------------------
+[IMPMON]
+Name = Impmon
+Types = DARK
+BaseStats = 50,50,50,50,50,50
+GenderRatio = Genderless
+GrowthRate = Medium
+BaseExp = 100
+CatchRate = 0
+Happiness = 70
+Abilites = INTIMIDATE
+HiddenAbilities = JUSTIFIED
+Moves = 1,TACKLE
+Height = 0
+Weight = 0
+Color = Red
+Shape = BipedalTail
+Habitat = None
+Category = ???
+Pokedex = No data listed
+Generation = 0
+#-------------------------------
+[LALAMON]
+Name = Lalamon
+Types = GRASS
+BaseStats = 50,50,50,50,50,50
+GenderRatio = Genderless
+GrowthRate = Medium
+BaseExp = 100
+CatchRate = 0
+Happiness = 70
+Abilites = INTIMIDATE
+HiddenAbilities = JUSTIFIED
+Moves = 1,TACKLE
+Height = 0
+Weight = 0
+Color = Red
+Shape = HeadLegs
+Habitat = None
+Category = ???
+Pokedex = No data listed
+Generation = 0
+#-------------------------------
+[PULSEMON]
+Name = Pulsemon
+Types = ELECTRIC
+BaseStats = 50,50,50,50,50,50
+GenderRatio = Genderless
+GrowthRate = Medium
+BaseExp = 100
+CatchRate = 0
+Happiness = 70
+Abilites = INTIMIDATE
+HiddenAbilities = JUSTIFIED
+Moves = 1,TACKLE
+Height = 0
+Weight = 0
+Color = Red
+Shape = BipedalTail
+Habitat = None
+Category = ???
+Pokedex = No data listed
+Generation = 0
+#-------------------------------
+[SALAMON]
+Name = Salamon
+Types = FAIRY
+BaseStats = 50,50,50,50,50,50
+GenderRatio = Genderless
+GrowthRate = Medium
+BaseExp = 100
+CatchRate = 0
+Happiness = 70
+Abilites = INTIMIDATE
+HiddenAbilities = JUSTIFIED
+Moves = 1,TACKLE
+Height = 0
+Weight = 0
+Color = Red
+Shape = Quadruped
+Habitat = None
+Category = ???
+Pokedex = No data listed
+Generation = 0

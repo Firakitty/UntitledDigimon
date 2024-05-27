@@ -1,0 +1,23 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[003] # MAP003
+Land,21
+    20,ANGORAMON,5
+    20,GOMAMON,5
+    20,GOTSUMON,5
+    20,GUILMON,5
+    20,IMPMON,5
+    20,LALAMON,5
+    20,PULSEMON,5
+    20,SALAMON,5
+#-------------------------------
+[004] # MAP004
+Land,21
+    20,ANGORAMON,5
+    20,GOMAMON,5
+    20,GOTSUMON,5
+    20,GUILMON,5
+    20,IMPMON,5
+    20,LALAMON,5
+    20,PULSEMON,5
+    20,SALAMON,5

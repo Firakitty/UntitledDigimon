@@ -1,0 +1,142 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# MAP002 (2) - MAP005 (5)
+2,South,0,5,North,0
+# MAP006 (6) - MAP005 (5)
+6,West,0,5,East,0
+# MAP003 (3) - MAP005 (5)
+3,West,36,5,East,0
+# MAP004 (4) - MAP005 (5)
+4,South,0,5,North,144
+# MAP008 (8) - MAP005 (5)
+8,North,0,5,South,0
+# MAP009 (9) - MAP005 (5)
+9,West,0,5,East,36
+# MAP010 (10) - MAP005 (5)
+10,North,0,5,South,144
+# MAP012 (12) - MAP005 (5)
+12,West,0,5,East,72
+# MAP015 (15) - MAP005 (5)
+15,West,0,5,East,108
+# MAP006 (6) - MAP002 (2)
+6,West,0,2,East,36
+# MAP003 (3) - MAP002 (2)
+3,West,0,2,East,0
+# MAP007 (7) - MAP002 (2)
+7,North,0,2,South,144
+# MAP009 (9) - MAP002 (2)
+9,West,0,2,East,72
+# MAP012 (12) - MAP002 (2)
+12,West,0,2,East,108
+# MAP015 (15) - MAP002 (2)
+15,West,0,2,East,144
+# MAP003 (3) - MAP006 (6)
+3,South,0,6,North,0
+# MAP004 (4) - MAP006 (6)
+4,West,36,6,East,0
+# MAP007 (7) - MAP006 (6)
+7,West,0,6,East,0
+# MAP008 (8) - MAP006 (6)
+8,North,72,6,South,0
+# MAP009 (9) - MAP006 (6)
+9,North,0,6,South,0
+# MAP010 (10) - MAP006 (6)
+10,West,0,6,East,36
+# MAP011 (11) - MAP006 (6)
+11,East,0,6,West,72
+# MAP013 (13) - MAP006 (6)
+13,West,0,6,East,72
+# MAP014 (14) - MAP006 (6)
+14,East,0,6,West,108
+# MAP016 (16) - MAP006 (6)
+16,West,0,6,East,108
+# MAP004 (4) - MAP003 (3)
+4,West,0,3,East,0
+# MAP007 (7) - MAP003 (3)
+7,West,0,3,East,36
+# MAP008 (8) - MAP003 (3)
+8,East,0,3,West,72
+# MAP010 (10) - MAP003 (3)
+10,West,0,3,East,72
+# MAP011 (11) - MAP003 (3)
+11,East,0,3,West,108
+# MAP013 (13) - MAP003 (3)
+13,West,0,3,East,108
+# MAP014 (14) - MAP003 (3)
+14,East,0,3,West,144
+# MAP016 (16) - MAP003 (3)
+16,West,0,3,East,144
+# MAP007 (7) - MAP004 (4)
+7,North,0,4,South,0
+# MAP009 (9) - MAP004 (4)
+9,East,0,4,West,72
+# MAP012 (12) - MAP004 (4)
+12,East,0,4,West,108
+# MAP015 (15) - MAP004 (4)
+15,East,0,4,West,144
+# MAP008 (8) - MAP007 (7)
+8,North,144,7,South,0
+# MAP009 (9) - MAP007 (7)
+9,North,72,7,South,0
+# MAP010 (10) - MAP007 (7)
+10,North,0,7,South,0
+# MAP012 (12) - MAP007 (7)
+12,East,0,7,West,72
+# MAP015 (15) - MAP007 (7)
+15,East,0,7,West,108
+# MAP009 (9) - MAP008 (8)
+9,West,0,8,East,0
+# MAP011 (11) - MAP008 (8)
+11,North,0,8,South,0
+# MAP012 (12) - MAP008 (8)
+12,West,0,8,East,36
+# MAP013 (13) - MAP008 (8)
+13,North,0,8,South,144
+# MAP015 (15) - MAP008 (8)
+15,West,0,8,East,72
+# MAP010 (10) - MAP009 (9)
+10,West,0,9,East,0
+# MAP011 (11) - MAP009 (9)
+11,North,72,9,South,0
+# MAP012 (12) - MAP009 (9)
+12,North,0,9,South,0
+# MAP013 (13) - MAP009 (9)
+13,West,0,9,East,36
+# MAP014 (14) - MAP009 (9)
+14,East,0,9,West,72
+# MAP016 (16) - MAP009 (9)
+16,West,0,9,East,72
+# MAP011 (11) - MAP010 (10)
+11,North,144,10,South,0
+# MAP012 (12) - MAP010 (10)
+12,North,72,10,South,0
+# MAP013 (13) - MAP010 (10)
+13,North,0,10,South,0
+# MAP015 (15) - MAP010 (10)
+15,East,0,10,West,72
+# MAP012 (12) - MAP011 (11)
+12,West,0,11,East,0
+# MAP015 (15) - MAP011 (11)
+15,West,0,11,East,36
+# MAP014 (14) - MAP011 (11)
+14,North,0,11,South,0
+# MAP016 (16) - MAP011 (11)
+16,North,0,11,South,144
+# MAP013 (13) - MAP012 (12)
+13,West,0,12,East,0
+# MAP015 (15) - MAP012 (12)
+15,North,0,12,South,0
+# MAP014 (14) - MAP012 (12)
+14,North,72,12,South,0
+# MAP016 (16) - MAP012 (12)
+16,West,0,12,East,36
+# MAP015 (15) - MAP013 (13)
+15,North,72,13,South,0
+# MAP014 (14) - MAP013 (13)
+14,North,144,13,South,0
+# MAP016 (16) - MAP013 (13)
+16,North,0,13,South,0
+# MAP014 (14) - MAP015 (15)
+14,East,0,15,West,0
+# MAP016 (16) - MAP015 (15)
+16,West,0,15,East,0
