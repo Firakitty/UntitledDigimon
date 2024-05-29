@@ -3997,7 +3997,7 @@ Description = A seed that causes worry is planted on the foe. It prevents sleep 
 #-------------------------------
 [PRECIPICEBLADES]
 Name = Precipice Blades
-Type = GROUND
+Type = EARTH
 Category = Physical
 Power = 120
 Accuracy = 85
@@ -4009,7 +4009,7 @@ Description = The user attacks its foes by manifesting the power of the land in 
 #-------------------------------
 [EARTHQUAKE]
 Name = Earthquake
-Type = GROUND
+Type = EARTH
 Category = Physical
 Power = 100
 Accuracy = 100
@@ -4021,7 +4021,7 @@ Description = The user sets off an earthquake that strikes every Pokémon around
 #-------------------------------
 [HIGHHORSEPOWER]
 Name = High Horsepower
-Type = GROUND
+Type = EARTH
 Category = Physical
 Power = 95
 Accuracy = 95
@@ -4033,7 +4033,7 @@ Description = The user fiercely attacks the target using its entire body.
 #-------------------------------
 [EARTHPOWER]
 Name = Earth Power
-Type = GROUND
+Type = EARTH
 Category = Special
 Power = 90
 Accuracy = 100
@@ -4046,7 +4046,7 @@ Description = The user makes the ground under the foe erupt with power. It may a
 #-------------------------------
 [LANDSWRATH]
 Name = Land's Wrath
-Type = GROUND
+Type = EARTH
 Category = Physical
 Power = 90
 Accuracy = 100
@@ -4058,7 +4058,7 @@ Description = The user gathers the energy of the land and focuses that power on 
 #-------------------------------
 [THOUSANDARROWS]
 Name = Thousand Arrows
-Type = GROUND
+Type = EARTH
 Category = Physical
 Power = 90
 Accuracy = 100
@@ -4070,7 +4070,7 @@ Description = This move also hits Pokémon that are in the air. Those Pokémon a
 #-------------------------------
 [THOUSANDWAVES]
 Name = Thousand Waves
-Type = GROUND
+Type = EARTH
 Category = Physical
 Power = 90
 Accuracy = 100
@@ -4082,7 +4082,7 @@ Description = The user attacks with a wave that crawls along the ground. Those i
 #-------------------------------
 [DIG]
 Name = Dig
-Type = GROUND
+Type = EARTH
 Category = Physical
 Power = 80
 Accuracy = 100
@@ -4094,7 +4094,7 @@ Description = The user burrows, then attacks on the second turn. It can also be 
 #-------------------------------
 [DRILLRUN]
 Name = Drill Run
-Type = GROUND
+Type = EARTH
 Category = Physical
 Power = 80
 Accuracy = 95
@@ -4106,7 +4106,7 @@ Description = The user crashes into its target while rotating its body like a dr
 #-------------------------------
 [STOMPINGTANTRUM]
 Name = Stomping Tantrum
-Type = GROUND
+Type = EARTH
 Category = Physical
 Power = 75
 Accuracy = 100
@@ -4118,7 +4118,7 @@ Description = The user attacks driven by frustration. Power increases if the use
 #-------------------------------
 [SCORCHINGSANDS]
 Name = Scorching Sands
-Type = GROUND
+Type = EARTH
 Category = Special
 Power = 70
 Accuracy = 100
@@ -4131,7 +4131,7 @@ Description = The user throws scorching sand at the target to attack. This may a
 #-------------------------------
 [BONECLUB]
 Name = Bone Club
-Type = GROUND
+Type = EARTH
 Category = Physical
 Power = 65
 Accuracy = 85
@@ -4144,7 +4144,7 @@ Description = The user clubs the target with a bone. It may also make the target
 #-------------------------------
 [MUDBOMB]
 Name = Mud Bomb
-Type = GROUND
+Type = EARTH
 Category = Special
 Power = 65
 Accuracy = 85
@@ -4157,7 +4157,7 @@ Description = The user launches a hard-packed mud ball to attack. It may also lo
 #-------------------------------
 [BULLDOZE]
 Name = Bulldoze
-Type = GROUND
+Type = EARTH
 Category = Physical
 Power = 60
 Accuracy = 100
@@ -4170,7 +4170,7 @@ Description = The user strikes everything around it by stomping on the ground. I
 #-------------------------------
 [MUDSHOT]
 Name = Mud Shot
-Type = GROUND
+Type = EARTH
 Category = Special
 Power = 55
 Accuracy = 95
@@ -4183,7 +4183,7 @@ Description = The user attacks by hurling a blob of mud at the target. It also r
 #-------------------------------
 [BONEMERANG]
 Name = Bonemerang
-Type = GROUND
+Type = EARTH
 Category = Physical
 Power = 50
 Accuracy = 90
@@ -4195,7 +4195,7 @@ Description = The user throws the bone it holds. The bone loops to hit the targe
 #-------------------------------
 [SANDTOMB]
 Name = Sand Tomb
-Type = GROUND
+Type = EARTH
 Category = Physical
 Power = 35
 Accuracy = 85
@@ -4207,7 +4207,7 @@ Description = The user traps the target inside a harshly raging sandstorm for fo
 #-------------------------------
 [BONERUSH]
 Name = Bone Rush
-Type = GROUND
+Type = EARTH
 Category = Physical
 Power = 25
 Accuracy = 90
@@ -4219,7 +4219,7 @@ Description = The user strikes the target with a hard bone two to five times in 
 #-------------------------------
 [MUDSLAP]
 Name = Mud-Slap
-Type = GROUND
+Type = EARTH
 Category = Special
 Power = 20
 Accuracy = 100
@@ -4232,7 +4232,7 @@ Description = The user hurls mud in the target's face to inflict damage and lowe
 #-------------------------------
 [FISSURE]
 Name = Fissure
-Type = GROUND
+Type = EARTH
 Category = Physical
 Power = 1
 Accuracy = 30
@@ -4244,7 +4244,7 @@ Description = The user opens up a fissure in the ground and drops the foe in. Th
 #-------------------------------
 [MAGNITUDE]
 Name = Magnitude
-Type = GROUND
+Type = EARTH
 Category = Physical
 Power = 1
 Accuracy = 100
@@ -4256,7 +4256,7 @@ Description = The user looses a ground-shaking quake affecting everyone around t
 #-------------------------------
 [MUDSPORT]
 Name = Mud Sport
-Type = GROUND
+Type = EARTH
 Category = Status
 Accuracy = 0
 TotalPP = 15
@@ -4266,7 +4266,7 @@ Description = The user covers itself with mud. It weakens Electric-type moves wh
 #-------------------------------
 [ROTOTILLER]
 Name = Rototiller
-Type = GROUND
+Type = EARTH
 Category = Status
 Accuracy = 0
 TotalPP = 10
@@ -4276,7 +4276,7 @@ Description = The user tills the soil to encourage plant growth. This raises the
 #-------------------------------
 [SANDATTACK]
 Name = Sand Attack
-Type = GROUND
+Type = EARTH
 Category = Status
 Accuracy = 100
 TotalPP = 15
@@ -4287,7 +4287,7 @@ Description = Sand is hurled in the target's face, reducing its accuracy.
 #-------------------------------
 [SHOREUP]
 Name = Shore Up
-Type = GROUND
+Type = EARTH
 Category = Status
 Accuracy = 0
 TotalPP = 10
@@ -4297,7 +4297,7 @@ Description = The user regains up to half of its max HP. It restores more HP in 
 #-------------------------------
 [SPIKES]
 Name = Spikes
-Type = GROUND
+Type = EARTH
 Category = Status
 Accuracy = 0
 TotalPP = 20
@@ -7718,7 +7718,7 @@ Description = The user creates a bizarre area in which Pokémon's Defense and Sp
 #-------------------------------
 [HEADSMASH]
 Name = Head Smash
-Type = ROCK
+Type = EARTH
 Category = Physical
 Power = 150
 Accuracy = 80
@@ -7730,7 +7730,7 @@ Description = The user attacks the foe with a hazardous, full-power headbutt. Th
 #-------------------------------
 [ROCKWRECKER]
 Name = Rock Wrecker
-Type = ROCK
+Type = EARTH
 Category = Physical
 Power = 150
 Accuracy = 90
@@ -7742,7 +7742,7 @@ Description = The user launches a huge boulder at the target to attack. It must 
 #-------------------------------
 [METEORBEAM]
 Name = Meteor Beam
-Type = ROCK
+Type = EARTH
 Category = Special
 Power = 120
 Accuracy = 90
@@ -7754,7 +7754,7 @@ Description = Gathers space power and boosts its Sp. Atk stat on the first turn,
 #-------------------------------
 [DIAMONDSTORM]
 Name = Diamond Storm
-Type = ROCK
+Type = EARTH
 Category = Physical
 Power = 100
 Accuracy = 95
@@ -7767,7 +7767,7 @@ Description = The user whips up a storm of diamonds to damage foes. This may als
 #-------------------------------
 [STONEEDGE]
 Name = Stone Edge
-Type = ROCK
+Type = EARTH
 Category = Physical
 Power = 100
 Accuracy = 80
@@ -7779,7 +7779,7 @@ Description = The user stabs the foe with sharpened stones from below. It has a 
 #-------------------------------
 [POWERGEM]
 Name = Power Gem
-Type = ROCK
+Type = EARTH
 Category = Special
 Power = 80
 Accuracy = 100
@@ -7791,7 +7791,7 @@ Description = The user attacks with a ray of light that sparkles as if it were m
 #-------------------------------
 [ROCKSLIDE]
 Name = Rock Slide
-Type = ROCK
+Type = EARTH
 Category = Physical
 Power = 75
 Accuracy = 90
@@ -7804,7 +7804,7 @@ Description = Large boulders are hurled at the foes to inflict damage. It may al
 #-------------------------------
 [ANCIENTPOWER]
 Name = Ancient Power
-Type = ROCK
+Type = EARTH
 Category = Special
 Power = 60
 Accuracy = 100
@@ -7817,7 +7817,7 @@ Description = The user attacks with a prehistoric power. It may also raise all t
 #-------------------------------
 [ROCKTOMB]
 Name = Rock Tomb
-Type = ROCK
+Type = EARTH
 Category = Physical
 Power = 60
 Accuracy = 95
@@ -7830,7 +7830,7 @@ Description = Boulders are hurled at the target. It also lowers the target's Spe
 #-------------------------------
 [ROCKTHROW]
 Name = Rock Throw
-Type = ROCK
+Type = EARTH
 Category = Physical
 Power = 50
 Accuracy = 90
@@ -7842,7 +7842,7 @@ Description = The user picks up and throws a small rock at the target to attack.
 #-------------------------------
 [SMACKDOWN]
 Name = Smack Down
-Type = ROCK
+Type = EARTH
 Category = Physical
 Power = 50
 Accuracy = 100
@@ -7854,7 +7854,7 @@ Description = The user throws a stone or projectile to attack. A flying Pokémon
 #-------------------------------
 [ACCELEROCK]
 Name = Accelerock
-Type = ROCK
+Type = EARTH
 Category = Physical
 Power = 40
 Accuracy = 100
@@ -7867,7 +7867,7 @@ Description = The user smashes into the target at high speed. This move always g
 #-------------------------------
 [ROLLOUT]
 Name = Rollout
-Type = ROCK
+Type = EARTH
 Category = Physical
 Power = 30
 Accuracy = 90
@@ -7879,7 +7879,7 @@ Description = The user continually rolls into the target over five turns. It bec
 #-------------------------------
 [ROCKBLAST]
 Name = Rock Blast
-Type = ROCK
+Type = EARTH
 Category = Physical
 Power = 25
 Accuracy = 90
@@ -7891,7 +7891,7 @@ Description = The user hurls hard rocks at the target. Two to five rocks are lau
 #-------------------------------
 [ROCKPOLISH]
 Name = Rock Polish
-Type = ROCK
+Type = EARTH
 Category = Status
 Accuracy = 0
 TotalPP = 20
@@ -7901,7 +7901,7 @@ Description = The user polishes its body to reduce drag. It can sharply raise th
 #-------------------------------
 [SANDSTORM]
 Name = Sandstorm
-Type = ROCK
+Type = EARTH
 Category = Status
 Accuracy = 0
 TotalPP = 10
@@ -7911,7 +7911,7 @@ Description = Summons a five-turn sandstorm to hurt all combatants except the Ro
 #-------------------------------
 [STEALTHROCK]
 Name = Stealth Rock
-Type = ROCK
+Type = EARTH
 Category = Status
 Accuracy = 0
 TotalPP = 20
@@ -7921,7 +7921,7 @@ Description = The user lays a trap of levitating stones around the foe. The trap
 #-------------------------------
 [TARSHOT]
 Name = Tar Shot
-Type = ROCK
+Type = EARTH
 Category = Status
 Accuracy = 100
 TotalPP = 15
@@ -7932,7 +7932,7 @@ Description = Pours sticky tar over the target, lowering its Speed and making it
 #-------------------------------
 [WIDEGUARD]
 Name = Wide Guard
-Type = ROCK
+Type = EARTH
 Category = Status
 Accuracy = 0
 TotalPP = 10

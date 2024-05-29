@@ -178,7 +178,7 @@ WildItemUncommon = SNOWBALL
 #-------------------------------
 [DIGLETT,1]
 FormName = Alolan
-Types = GROUND,STEEL
+Types = EARTH,STEEL
 BaseStats = 10,55,30,90,35,45
 Abilities = SANDVEIL,TANGLINGHAIR
 Moves = 1,SANDATTACK,1,METALCLAW,4,GROWL,7,ASTONISH,10,MUDSLAP,14,MAGNITUDE,18,BULLDOZE,22,SUCKERPUNCH,25,MUDBOMB,28,EARTHPOWER,31,DIG,35,IRONHEAD,39,EARTHQUAKE,43,FISSURE
@@ -191,7 +191,7 @@ Flags = InheritFormWithEverStone
 #-------------------------------
 [DUGTRIO,1]
 FormName = Alolan
-Types = GROUND,STEEL
+Types = EARTH,STEEL
 BaseStats = 35,100,60,110,50,70
 EVs = ATTACK,2
 Abilities = SANDVEIL,TANGLINGHAIR
@@ -260,7 +260,7 @@ Generation = 6
 #-------------------------------
 [GEODUDE,1]
 FormName = Alolan
-Types = ROCK,ELECTRIC
+Types = EARTH,ELECTRIC
 Abilities = MAGNETPULL,STURDY
 HiddenAbilities = GALVANIZE
 Moves = 1,TACKLE,1,DEFENSECURL,4,CHARGE,6,ROCKPOLISH,10,ROLLOUT,12,SPARK,16,ROCKTHROW,18,SMACKDOWN,22,THUNDERPUNCH,24,SELFDESTRUCT,28,STEALTHROCK,30,ROCKBLAST,34,DISCHARGE,36,EXPLOSION,40,DOUBLEEDGE,42,STONEEDGE
@@ -275,7 +275,7 @@ WildItemUncommon = CELLBATTERY
 #-------------------------------
 [GRAVELER,1]
 FormName = Alolan
-Types = ROCK,ELECTRIC
+Types = EARTH,ELECTRIC
 Abilities = MAGNETPULL,STURDY
 HiddenAbilities = GALVANIZE
 Moves = 1,TACKLE,1,DEFENSECURL,1,CHARGE,1,ROCKPOLISH,4,CHARGE,6,ROCKPOLISH,10,ROLLOUT,12,SPARK,16,ROCKTHROW,18,SMACKDOWN,22,THUNDERPUNCH,24,SELFDESTRUCT,30,STEALTHROCK,34,ROCKBLAST,40,DISCHARGE,44,EXPLOSION,50,DOUBLEEDGE,54,STONEEDGE
@@ -289,7 +289,7 @@ WildItemUncommon = CELLBATTERY
 #-------------------------------
 [GOLEM,1]
 FormName = Alolan
-Types = ROCK,ELECTRIC
+Types = EARTH,ELECTRIC
 Abilities = MAGNETPULL,STURDY
 HiddenAbilities = GALVANIZE
 Moves = 1,HEAVYSLAM,1,TACKLE,1,DEFENSECURL,1,CHARGE,1,ROCKPOLISH,4,CHARGE,6,ROCKPOLISH,10,STEAMROLLER,12,SPARK,16,ROCKTHROW,18,SMACKDOWN,22,THUNDERPUNCH,24,SELFDESTRUCT,30,STEALTHROCK,34,ROCKBLAST,40,DISCHARGE,44,EXPLOSION,50,DOUBLEEDGE,54,STONEEDGE,60,HEAVYSLAM
@@ -1043,7 +1043,7 @@ Generation = 6
 #-------------------------------
 [GROUDON,1]
 FormName = Primal Groudon
-Types = GROUND,FIRE
+Types = EARTH,FIRE
 BaseStats = 100,180,160,90,150,90
 BaseExp = 385
 Abilities = DESOLATELAND
@@ -1094,7 +1094,7 @@ Color = Red
 #-------------------------------
 [WORMADAM,1]
 FormName = Sandy Cloak
-Types = BUG,GROUND
+Types = BUG,EARTH
 BaseStats = 60,79,105,36,59,85
 EVs = DEFENSE,2
 Moves = 0,QUIVERDANCE,1,SUCKERPUNCH,1,TACKLE,1,PROTECT,1,BUGBITE,10,PROTECT,15,BUGBITE,20,STRINGSHOT,23,CONFUSION,26,ROCKBLAST,29,HARDEN,32,PSYBEAM,35,INFESTATION,38,FLAIL,41,ATTRACT,44,PSYCHIC,47,FISSURE,50,BUGBUZZ
@@ -1250,11 +1250,11 @@ Types = POISON
 #-------------------------------
 [ARCEUS,4]
 FormName = Ground Type
-Types = GROUND
+Types = EARTH
 #-------------------------------
 [ARCEUS,5]
 FormName = Rock Type
-Types = ROCK
+Types = EARTH
 #-------------------------------
 [ARCEUS,6]
 FormName = Bug Type
@@ -1383,7 +1383,7 @@ Generation = 8
 #-------------------------------
 [YAMASK,1]
 FormName = Galarian
-Types = GROUND,GHOST
+Types = EARTH,GHOST
 BaseStats = 38,55,85,30,30,65
 Abilities = WANDERINGSPIRIT
 Moves = 1,ASTONISH,1,PROTECT,4,HAZE,8,NIGHTSHADE,12,DISABLE,16,BRUTALSWING,20,CRAFTYSHIELD,24,HEX,28,MEANLOOK,32,SLAM,36,CURSE,40,SHADOWBALL,44,EARTHQUAKE,48,POWERSPLIT,48,GUARDSPLIT,52,DESTINYBOND
@@ -1416,7 +1416,7 @@ FormName = Winter Form
 #-------------------------------
 [STUNFISK,1]
 FormName = Galarian
-Types = GROUND,STEEL
+Types = EARTH,STEEL
 BaseStats = 109,81,99,32,66,84
 Abilities = MIMICRY
 HiddenAbilities = MIMICRY
@@ -1850,11 +1850,11 @@ Types = POISON
 #-------------------------------
 [SILVALLY,4]
 FormName = Type: Ground
-Types = GROUND
+Types = EARTH
 #-------------------------------
 [SILVALLY,5]
 FormName = Type: Rock
-Types = ROCK
+Types = EARTH
 #-------------------------------
 [SILVALLY,6]
 FormName = Type: Bug

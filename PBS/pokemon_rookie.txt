@@ -44,7 +44,7 @@ Generation = 0
 #-------------------------------
 [GOTSUMON]
 Name = Gotsumon
-Types = ROCK
+Types = EARTH
 BaseStats = 50,50,50,50,50,50
 GenderRatio = Genderless
 GrowthRate = Medium
@@ -149,7 +149,7 @@ Generation = 0
 #-------------------------------
 [SALAMON]
 Name = Salamon
-Types = FAIRY
+Types = LIGHT
 BaseStats = 50,50,50,50,50,50
 GenderRatio = Genderless
 GrowthRate = Medium
